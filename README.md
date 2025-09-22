@@ -1,2 +1,3 @@
 # Git-test
-Git and Github
+Detailed learning Git and github
+Author : Kaustubh Kawale 
